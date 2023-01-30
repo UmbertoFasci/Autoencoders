@@ -13,3 +13,5 @@ Here I go over the current literature regarding the basics of autoencoders , ima
 ## Experiments
 
 Now that the rundown is complete. Let's explore possible datasets to use for training more autoencoders. For every possible dataset that I find, I will create a data preperation workflow for each. Once one of the datasets is chosen for training, I will then create a fleshed out model and present it for a possible portfolio project.
+
+### Autoencoder Image Segmentation
